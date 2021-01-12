@@ -1,0 +1,330 @@
+Episode: 1. Step: 0
+State:  [ 0.75  0.5   0.25  0.5   0.25 -0.5   0.75 -0.5 ]. Action: 14. Next state: [ 0.75   0.5    0.25   0.5    0.255 -0.5    0.75  -0.5  ]. cl_previous: 0.9. cl: 0.8109374. Reward: -1
+
+Episode: 1. Step: 1
+State:  [ 0.75   0.5    0.25   0.5    0.255 -0.5    0.75  -0.5  ]. Action: 19. Next state: [ 0.75   0.5    0.25   0.5    0.255 -0.5    0.755 -0.5  ]. cl_previous: 0.8109374. cl: 0.8595451. Reward: 1
+
+Episode: 1. Step: 2
+State:  [ 0.75   0.5    0.25   0.5    0.255 -0.5    0.755 -0.5  ]. Action: 9. Next state: [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.5  ]. cl_previous: 0.8595451. cl: 0.8401338. Reward: -1
+
+Episode: 1. Step: 3
+State:  [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.5  ]. Action: 16. Next state: [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.495]. cl_previous: 0.8401338. cl: 0.9552252. Reward: 1
+
+Episode: 1. Step: 4
+State:  [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.495]. Action: 10. Next state: [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.495]. cl_previous: 0.9552252. cl: 0.9552252. Reward: 0
+
+Episode: 1. Step: 5
+State:  [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.495]. Action: 10. Next state: [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.495]. cl_previous: 0.9552252. cl: 0.9552252. Reward: 0
+
+Episode: 1. Step: 6
+State:  [ 0.75   0.5    0.255  0.5    0.255 -0.5    0.755 -0.495]. Action: 13. Next state: [ 0.75   0.5    0.255  0.5    0.25  -0.5    0.755 -0.495]. cl_previous: 0.9552252. cl: 0.9063218. Reward: -1
+
+Episode: 1. Step: 7
+State:  [ 0.75   0.5    0.255  0.5    0.25  -0.5    0.755 -0.495]. Action: 8. Next state: [ 0.75   0.5    0.25   0.5    0.25  -0.5    0.755 -0.495]. cl_previous: 0.9063218. cl: 0.9306202. Reward: 1
+
+Episode: 1. Step: 8
+State:  [ 0.75   0.5    0.25   0.5    0.25  -0.5    0.755 -0.495]. Action: 16. Next state: [ 0.75   0.5    0.25   0.5    0.25  -0.5    0.755 -0.49 ]. cl_previous: 0.9306202. cl: 0.9665185. Reward: 1
+
+Episode: 1. Step: 9
+State:  [ 0.75   0.5    0.25   0.5    0.25  -0.5    0.755 -0.49 ]. Action: 0. Next state: [ 0.75   0.5    0.25   0.5    0.25  -0.5    0.755 -0.49 ]. cl_previous: 0.9665185. cl: 0.9665185. Reward: 0
+
+Episode: 1. Step: 10
+State:  [ 0.75   0.5    0.25   0.5    0.25  -0.5    0.755 -0.49 ]. Action: 12. Next state: [ 0.75   0.5    0.25   0.5    0.25  -0.505  0.755 -0.49 ]. cl_previous: 0.9665185. cl: 0.892385. Reward: -1
+
+Episode: 1. Step: 11
+State:  [ 0.75   0.5    0.25   0.5    0.25  -0.505  0.755 -0.49 ]. Action: 3. Next state: [ 0.745  0.5    0.25   0.5    0.25  -0.505  0.755 -0.49 ]. cl_previous: 0.892385. cl: 0.8084396. Reward: -1
+
+Episode: 1. Step: 12
+State:  [ 0.745  0.5    0.25   0.5    0.25  -0.505  0.755 -0.49 ]. Action: 0. Next state: [ 0.745  0.5    0.25   0.5    0.25  -0.505  0.755 -0.49 ]. cl_previous: 0.8084396. cl: 0.8084396. Reward: 0
+
+Episode: 1. Step: 13
+State:  [ 0.745  0.5    0.25   0.5    0.25  -0.505  0.755 -0.49 ]. Action: 9. Next state: [ 0.745  0.5    0.255  0.5    0.25  -0.505  0.755 -0.49 ]. cl_previous: 0.8084396. cl: 0.9226419. Reward: 1
+
+Episode: 1. Step: 14
+State:  [ 0.745  0.5    0.255  0.5    0.25  -0.505  0.755 -0.49 ]. Action: 16. Next state: [ 0.745  0.5    0.255  0.5    0.25  -0.505  0.755 -0.485]. cl_previous: 0.9226419. cl: 0.8452605. Reward: -1
+
+Episode: 1. Step: 15
+State:  [ 0.745  0.5    0.255  0.5    0.25  -0.505  0.755 -0.485]. Action: 4. Next state: [ 0.75   0.5    0.255  0.5    0.25  -0.505  0.755 -0.485]. cl_previous: 0.8452605. cl: 0.9715454. Reward: 1
+
+Episode: 1. Step: 16
+State:  [ 0.75   0.5    0.255  0.5    0.25  -0.505  0.755 -0.485]. Action: 1. Next state: [ 0.75   0.505  0.255  0.5    0.25  -0.505  0.755 -0.485]. cl_previous: 0.9715454. cl: 0.9652147. Reward: -1
+
+Episode: 1. Step: 17
+State:  [ 0.75   0.505  0.255  0.5    0.25  -0.505  0.755 -0.485]. Action: 16. Next state: [ 0.75   0.505  0.255  0.5    0.25  -0.505  0.755 -0.48 ]. cl_previous: 0.9652147. cl: 0.8280196. Reward: -1
+
+Episode: 1. Step: 18
+State:  [ 0.75   0.505  0.255  0.5    0.25  -0.505  0.755 -0.48 ]. Action: 13. Next state: [ 0.75   0.505  0.255  0.5    0.245 -0.505  0.755 -0.48 ]. cl_previous: 0.8280196. cl: 0.8457887. Reward: 1
+
+Episode: 1. Step: 19
+State:  [ 0.75   0.505  0.255  0.5    0.245 -0.505  0.755 -0.48 ]. Action: 2. Next state: [ 0.75   0.5    0.255  0.5    0.245 -0.505  0.755 -0.48 ]. cl_previous: 0.8457887. cl: 0.8268941. Reward: -1
+
+Optimization step with loss: 0.7908858060836792
+
+Episode: 1. Step: 20
+State:  [ 0.75   0.5    0.255  0.5    0.245 -0.505  0.755 -0.48 ]. Action: 4. Next state: [ 0.755  0.5    0.255  0.5    0.245 -0.505  0.755 -0.48 ]. cl_previous: 0.8268941. cl: 0.8985117. Reward: 1
+
+Episode: 1. Step: 21
+State:  [ 0.755  0.5    0.255  0.5    0.245 -0.505  0.755 -0.48 ]. Action: 10. Next state: [ 0.755  0.5    0.255  0.5    0.245 -0.505  0.755 -0.48 ]. cl_previous: 0.8985117. cl: 0.8985117. Reward: 0
+
+Episode: 1. Step: 22
+State:  [ 0.755  0.5    0.255  0.5    0.245 -0.505  0.755 -0.48 ]. Action: 13. Next state: [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.755 -0.48 ]. cl_previous: 0.8985117. cl: 0.8762458. Reward: -1
+
+Episode: 1. Step: 23
+State:  [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.755 -0.48 ]. Action: 19. Next state: [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.48 ]. cl_previous: 0.8762458. cl: 0.8194775. Reward: -1
+
+Optimization step with loss: 10187.7490234375
+
+Episode: 1. Step: 24
+State:  [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.48 ]. Action: 7. Next state: [ 0.755  0.5    0.255  0.495  0.24  -0.505  0.76  -0.48 ]. cl_previous: 0.8194775. cl: 0.9735755. Reward: 1
+
+Episode: 1. Step: 25
+State:  [ 0.755  0.5    0.255  0.495  0.24  -0.505  0.76  -0.48 ]. Action: 4. Next state: [ 0.76   0.5    0.255  0.495  0.24  -0.505  0.76  -0.48 ]. cl_previous: 0.9735755. cl: 0.7842345. Reward: -1
+
+Episode: 1. Step: 26
+State:  [ 0.76   0.5    0.255  0.495  0.24  -0.505  0.76  -0.48 ]. Action: 6. Next state: [ 0.76   0.5    0.255  0.5    0.24  -0.505  0.76  -0.48 ]. cl_previous: 0.7842345. cl: 0.9992834. Reward: 1
+
+Episode: 1. Step: 27
+State:  [ 0.76   0.5    0.255  0.5    0.24  -0.505  0.76  -0.48 ]. Action: 3. Next state: [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.48 ]. cl_previous: 0.9992834. cl: 0.8194775. Reward: -1
+
+Optimization step with loss: 295.028076171875
+
+Episode: 1. Step: 28
+State:  [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.48 ]. Action: 16. Next state: [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.475]. cl_previous: 0.8194775. cl: 0.8765903. Reward: 1
+
+Episode: 1. Step: 29
+State:  [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.475]. Action: 16. Next state: [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.47 ]. cl_previous: 0.8765903. cl: 0.7980427. Reward: -1
+
+Episode: 1. Step: 30
+State:  [ 0.755  0.5    0.255  0.5    0.24  -0.505  0.76  -0.47 ]. Action: 13. Next state: [ 0.755  0.5    0.255  0.5    0.235 -0.505  0.76  -0.47 ]. cl_previous: 0.7980427. cl: 0.7912709. Reward: -1
+
+Episode: 1. Step: 31
+State:  [ 0.755  0.5    0.255  0.5    0.235 -0.505  0.76  -0.47 ]. Action: 1. Next state: [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. cl_previous: 0.7912709. cl: 0.8650913. Reward: 1
+
+Optimization step with loss: 4.792054653167725
+
+Episode: 1. Step: 32
+State:  [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. Action: 6. Next state: [ 0.755  0.505  0.255  0.505  0.235 -0.505  0.76  -0.47 ]. cl_previous: 0.8650913. cl: 0.8076592. Reward: -1
+
+Episode: 1. Step: 33
+State:  [ 0.755  0.505  0.255  0.505  0.235 -0.505  0.76  -0.47 ]. Action: 7. Next state: [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. cl_previous: 0.8076592. cl: 0.8650913. Reward: 1
+
+Episode: 1. Step: 34
+State:  [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. Action: 10. Next state: [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. cl_previous: 0.8650913. cl: 0.8650913. Reward: 0
+
+Episode: 1. Step: 35
+State:  [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. Action: 0. Next state: [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. cl_previous: 0.8650913. cl: 0.8650913. Reward: 0
+
+Optimization step with loss: 1.493978500366211
+
+Episode: 1. Step: 36
+State:  [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.47 ]. Action: 17. Next state: [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.475]. cl_previous: 0.8650913. cl: 0.8159211. Reward: -1
+
+Episode: 1. Step: 37
+State:  [ 0.755  0.505  0.255  0.5    0.235 -0.505  0.76  -0.475]. Action: 2. Next state: [ 0.755  0.5    0.255  0.5    0.235 -0.505  0.76  -0.475]. cl_previous: 0.8159211. cl: 0.9587547. Reward: 1
+
+Episode: 1. Step: 38
+State:  [ 0.755  0.5    0.255  0.5    0.235 -0.505  0.76  -0.475]. Action: 9. Next state: [ 0.755  0.5    0.26   0.5    0.235 -0.505  0.76  -0.475]. cl_previous: 0.9587547. cl: 0.9463037. Reward: -1
+
+Episode: 1. Step: 39
+State:  [ 0.755  0.5    0.26   0.5    0.235 -0.505  0.76  -0.475]. Action: 19. Next state: [ 0.755  0.5    0.26   0.5    0.235 -0.505  0.765 -0.475]. cl_previous: 0.9463037. cl: 0.9274577. Reward: -1
+
+Optimization step with loss: 3.068868637084961
+
+Episode: 1. Step: 40
+State:  [ 0.755  0.5    0.26   0.5    0.235 -0.505  0.765 -0.475]. Action: 8. Next state: [ 0.755  0.5    0.255  0.5    0.235 -0.505  0.765 -0.475]. cl_previous: 0.9274577. cl: 0.910587. Reward: -1
+
+Episode: 1. Step: 41
+State:  [ 0.755  0.5    0.255  0.5    0.235 -0.505  0.765 -0.475]. Action: 13. Next state: [ 0.755  0.5    0.255  0.5    0.23  -0.505  0.765 -0.475]. cl_previous: 0.910587. cl: 0.9161695. Reward: 1
+
+Episode: 1. Step: 42
+State:  [ 0.755  0.5    0.255  0.5    0.23  -0.505  0.765 -0.475]. Action: 4. Next state: [ 0.76   0.5    0.255  0.5    0.23  -0.505  0.765 -0.475]. cl_previous: 0.9161695. cl: 0.9508928. Reward: 1
+
+Episode: 1. Step: 43
+State:  [ 0.76   0.5    0.255  0.5    0.23  -0.505  0.765 -0.475]. Action: 12. Next state: [ 0.76   0.5    0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.9508928. cl: 0.9373217. Reward: -1
+
+Optimization step with loss: 1.9539803266525269
+
+Episode: 1. Step: 44
+State:  [ 0.76   0.5    0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 2. Next state: [ 0.76   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.9373217. cl: 0.8618245. Reward: -1
+
+Episode: 1. Step: 45
+State:  [ 0.76   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.765  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8618245. cl: 0.8788421. Reward: 1
+
+Episode: 1. Step: 46
+State:  [ 0.765  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 10. Next state: [ 0.765  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8788421. cl: 0.8788421. Reward: 0
+
+Episode: 1. Step: 47
+State:  [ 0.765  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.77   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8788421. cl: 0.9283244. Reward: 1
+
+Optimization step with loss: 3.8735647201538086
+
+Episode: 1. Step: 48
+State:  [ 0.77   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.775  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.9283244. cl: 0.9371577. Reward: 1
+
+Episode: 1. Step: 49
+State:  [ 0.775  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.78   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.9371577. cl: 0.8788383. Reward: -1
+
+Episode: 1. Step: 50
+State:  [ 0.78   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.785  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8788383. cl: 0.8487068. Reward: -1
+
+Episode: 1. Step: 51
+State:  [ 0.785  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 10. Next state: [ 0.785  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8487068. cl: 0.8487068. Reward: 0
+
+Optimization step with loss: 9.149166107177734
+
+Episode: 1. Step: 52
+State:  [ 0.785  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.79   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8487068. cl: 0.9386051. Reward: 1
+
+Episode: 1. Step: 53
+State:  [ 0.79   0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.795  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.9386051. cl: 0.8954892. Reward: -1
+
+Episode: 1. Step: 54
+State:  [ 0.795  0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.8    0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8954892. cl: 0.8433119. Reward: -1
+
+Episode: 1. Step: 55
+State:  [ 0.8    0.495  0.255  0.5    0.23  -0.51   0.765 -0.475]. Action: 9. Next state: [ 0.8    0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8433119. cl: 0.8141261. Reward: -1
+
+Optimization step with loss: 7.239212512969971
+
+Episode: 1. Step: 56
+State:  [ 0.8    0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.805  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8141261. cl: 0.8533052. Reward: 1
+
+Episode: 1. Step: 57
+State:  [ 0.805  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.81   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8533052. cl: 0.9604929. Reward: 1
+
+Episode: 1. Step: 58
+State:  [ 0.81   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.815  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.9604929. cl: 0.8590771. Reward: -1
+
+Episode: 1. Step: 59
+State:  [ 0.815  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.82   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8590771. cl: 0.9669377. Reward: 1
+
+Optimization step with loss: 16.687984466552734
+
+Episode: 1. Step: 60
+State:  [ 0.82   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 16. Next state: [ 0.82   0.495  0.26   0.5    0.23  -0.51   0.765 -0.47 ]. cl_previous: 0.9669377. cl: 0.8053198. Reward: -1
+
+Episode: 1. Step: 61
+State:  [ 0.82   0.495  0.26   0.5    0.23  -0.51   0.765 -0.47 ]. Action: 4. Next state: [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.47 ]. cl_previous: 0.8053198. cl: 0.8964012. Reward: 1
+
+Episode: 1. Step: 62
+State:  [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.47 ]. Action: 17. Next state: [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8964012. cl: 0.984426. Reward: 1
+
+Episode: 1. Step: 63
+State:  [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 4. Next state: [ 0.83   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.984426. cl: 0.8514398. Reward: -1
+
+Optimization step with loss: 37.68133544921875
+
+Episode: 1. Step: 64
+State:  [ 0.83   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 10. Next state: [ 0.83   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8514398. cl: 0.8514398. Reward: 0
+
+Episode: 1. Step: 65
+State:  [ 0.83   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 5. Next state: [ 0.83   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8514398. cl: 0.8514398. Reward: 0
+
+Episode: 1. Step: 66
+State:  [ 0.83   0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 3. Next state: [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.8514398. cl: 0.984426. Reward: 1
+
+Episode: 1. Step: 67
+State:  [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 10. Next state: [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.984426. cl: 0.984426. Reward: 0
+
+Optimization step with loss: 60.421600341796875
+
+Episode: 1. Step: 68
+State:  [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 10. Next state: [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.984426. cl: 0.984426. Reward: 0
+
+Episode: 1. Step: 69
+State:  [ 0.825  0.495  0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 1. Next state: [ 0.825  0.5    0.26   0.5    0.23  -0.51   0.765 -0.475]. cl_previous: 0.984426. cl: 0.872806. Reward: -1
+
+Episode: 1. Step: 70
+State:  [ 0.825  0.5    0.26   0.5    0.23  -0.51   0.765 -0.475]. Action: 6. Next state: [ 0.825  0.5    0.26   0.505  0.23  -0.51   0.765 -0.475]. cl_previous: 0.872806. cl: 0.9057509. Reward: 1
+
+Episode: 1. Step: 71
+State:  [ 0.825  0.5    0.26   0.505  0.23  -0.51   0.765 -0.475]. Action: 2. Next state: [ 0.825  0.495  0.26   0.505  0.23  -0.51   0.765 -0.475]. cl_previous: 0.9057509. cl: 0.9274968. Reward: 1
+
+Optimization step with loss: 442.19537353515625
+
+Episode: 1. Step: 72
+State:  [ 0.825  0.495  0.26   0.505  0.23  -0.51   0.765 -0.475]. Action: 15. Next state: [ 0.825  0.495  0.26   0.505  0.23  -0.51   0.765 -0.475]. cl_previous: 0.9274968. cl: 0.9274968. Reward: 0
+
+Episode: 1. Step: 73
+State:  [ 0.825  0.495  0.26   0.505  0.23  -0.51   0.765 -0.475]. Action: 2. Next state: [ 0.825  0.49   0.26   0.505  0.23  -0.51   0.765 -0.475]. cl_previous: 0.9274968. cl: 0.9441116. Reward: 1
+
+Episode: 1. Step: 74
+State:  [ 0.825  0.49   0.26   0.505  0.23  -0.51   0.765 -0.475]. Action: 2. Next state: [ 0.825  0.485  0.26   0.505  0.23  -0.51   0.765 -0.475]. cl_previous: 0.9441116. cl: 0.94371. Reward: -1
+
+Episode: 1. Step: 75
+State:  [ 0.825  0.485  0.26   0.505  0.23  -0.51   0.765 -0.475]. Action: 6. Next state: [ 0.825  0.485  0.26   0.51   0.23  -0.51   0.765 -0.475]. cl_previous: 0.94371. cl: 0.9104532. Reward: -1
+
+Optimization step with loss: 940.8827514648438
+
+Episode: 1. Step: 76
+State:  [ 0.825  0.485  0.26   0.51   0.23  -0.51   0.765 -0.475]. Action: 8. Next state: [ 0.825  0.485  0.255  0.51   0.23  -0.51   0.765 -0.475]. cl_previous: 0.9104532. cl: 0.7845622. Reward: -1
+
+Episode: 1. Step: 77
+State:  [ 0.825  0.485  0.255  0.51   0.23  -0.51   0.765 -0.475]. Action: 8. Next state: [ 0.825  0.485  0.25   0.51   0.23  -0.51   0.765 -0.475]. cl_previous: 0.7845622. cl: 0.7881217. Reward: 1
+
+Episode: 1. Step: 78
+State:  [ 0.825  0.485  0.25   0.51   0.23  -0.51   0.765 -0.475]. Action: 8. Next state: [ 0.825  0.485  0.245  0.51   0.23  -0.51   0.765 -0.475]. cl_previous: 0.7881217. cl: 0.8996528. Reward: 1
+
+Episode: 1. Step: 79
+State:  [ 0.825  0.485  0.245  0.51   0.23  -0.51   0.765 -0.475]. Action: 15. Next state: [ 0.825  0.485  0.245  0.51   0.23  -0.51   0.765 -0.475]. cl_previous: 0.8996528. cl: 0.8996528. Reward: 0
+
+Optimization step with loss: 4540.1279296875
+
+Episode: 1. Step: 80
+State:  [ 0.825  0.485  0.245  0.51   0.23  -0.51   0.765 -0.475]. Action: 11. Next state: [ 0.825  0.485  0.245  0.51   0.23  -0.505  0.765 -0.475]. cl_previous: 0.8996528. cl: 0.8662966. Reward: -1
+
+Episode: 1. Step: 81
+State:  [ 0.825  0.485  0.245  0.51   0.23  -0.505  0.765 -0.475]. Action: 8. Next state: [ 0.825  0.485  0.24   0.51   0.23  -0.505  0.765 -0.475]. cl_previous: 0.8662966. cl: 0.8570677. Reward: -1
+
+Episode: 1. Step: 82
+State:  [ 0.825  0.485  0.24   0.51   0.23  -0.505  0.765 -0.475]. Action: 8. Next state: [ 0.825  0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. cl_previous: 0.8570677. cl: 0.939848. Reward: 1
+
+Episode: 1. Step: 83
+State:  [ 0.825  0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. Action: 0. Next state: [ 0.825  0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. cl_previous: 0.939848. cl: 0.939848. Reward: 0
+
+Optimization step with loss: 10476.05078125
+
+Episode: 1. Step: 84
+State:  [ 0.825  0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. Action: 4. Next state: [ 0.83   0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. cl_previous: 0.939848. cl: 0.8514306. Reward: -1
+
+Episode: 1. Step: 85
+State:  [ 0.83   0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. Action: 16. Next state: [ 0.83   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.8514306. cl: 0.9367099. Reward: 1
+
+Episode: 1. Step: 86
+State:  [ 0.83   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 4. Next state: [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.9367099. cl: 0.8211806. Reward: -1
+
+Episode: 1. Step: 87
+State:  [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 4. Next state: [ 0.84   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.8211806. cl: 0.926722. Reward: 1
+
+Optimization step with loss: 3744.3759765625
+
+Episode: 1. Step: 88
+State:  [ 0.84   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 10. Next state: [ 0.84   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.926722. cl: 0.926722. Reward: 0
+
+Episode: 1. Step: 89
+State:  [ 0.84   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 10. Next state: [ 0.84   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.926722. cl: 0.926722. Reward: 0
+
+Episode: 1. Step: 90
+State:  [ 0.84   0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 3. Next state: [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.926722. cl: 0.8211806. Reward: -1
+
+Episode: 1. Step: 91
+State:  [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 17. Next state: [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. cl_previous: 0.8211806. cl: 0.9026854. Reward: 1
+
+Optimization step with loss: 42230.6015625
+
+Episode: 1. Step: 92
+State:  [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.475]. Action: 16. Next state: [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.9026854. cl: 0.8211806. Reward: -1
+
+Episode: 1. Step: 93
+State:  [ 0.835  0.485  0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 2. Next state: [ 0.835  0.48   0.235  0.51   0.23  -0.505  0.765 -0.47 ]. cl_previous: 0.8211806. cl: 0.9941378. Reward: 1
+
+Episode: 1. Step: 94
+State:  [ 0.835  0.48   0.235  0.51   0.23  -0.505  0.765 -0.47 ]. Action: 16. Next state: [ 0.835  0.48   0.235  0.51   0.23  -0.505  0.765 -0.465]. cl_previous: 0.9941378. cl: 0.9735196. Reward: -1
+
+Episode: 1. Step: 95
+State:  [ 0.835  0.48   0.235  0.51   0.23  -0.505  0.765 -0.465]. Action: 2. Next state: [ 0.835  0.475  0.235  0.51   0.23  -0.505  0.765 -0.465]. cl_previous: 0.9735196. cl: 0.8802966. Reward: -1
+
+Optimization step with loss: 20096.53125
+
+Episode: 1. Step: 96
+State:  [ 0.835  0.475  0.235  0.51   0.23  -0.505  0.765 -0.465]. Action: 16. Next state: [ 0.835  0.475  0.235  0.51   0.23  -0.505  0.765 -0.46 ]

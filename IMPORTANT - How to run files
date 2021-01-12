@@ -1,0 +1,2 @@
+To run the RL algorithms, Python files must be run on Ubuntu with OpenFOAM and GMSH software installed. To do this, run the requirements.sh bash script.
+Then, either to run the Q_Learning or the DQN algorithm, run the 'main.py' file on their respective folders.
